@@ -1,10 +1,3 @@
-/*
-* ----------------------------------------------------------------------------------------
-Author       : Hridoy
-Template Name: Bentos - Personal Portfolio HTML Template
-Version      : 1.0                                          
-* ----------------------------------------------------------------------------------------
-*/
 
 (function($) {
 
@@ -430,7 +423,7 @@ Version      : 1.0
         });
         tl.to(svg, {
             duration: 0.5,
-            attr: { d: curve },
+            //attr: { d: curve },
             ease: "power2.easeIn",
         }).to(svg, {
             duration: 0.5,
